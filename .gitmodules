@@ -1,0 +1,3 @@
+[submodule "overrides/config"]
+	path = overrides/config
+	url = https://github.com/Almagnus1/IaconConfig
