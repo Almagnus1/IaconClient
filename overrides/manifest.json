@@ -1,9 +1,9 @@
 {
 	"manifestType" : "minecraftModpack",
 	"manifestVersion" : 1,
-	"name" : "FTB Presents Direwolf20",
-	"version" : "1.10.0",
-	"author" : "The FTB Team",
+	"name" : "Iacon Modpack",
+	"version" : "A.0.0",
+	"author" : "Almagnus1",
 	"description" : "",
 	"files" : [{
 			"projectID" : 221863,
