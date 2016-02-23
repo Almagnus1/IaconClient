@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Iacon Build file
+build/Iacon_*
+
 # =========================
 # Operating System Files
 # =========================
