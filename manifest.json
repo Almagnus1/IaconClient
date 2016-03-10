@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.7.10",
+    "version": "$$MC_VER$$",
     "modLoaders": [
       {
-        "id": "forge-10.13.4.1614",
+        "id": "forge-10.13.4.1558",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Iacon Modpack",
-  "version": "A.0.0",
+  "version": "$$MP_VER$$",
   "author": "Almagnus1",
   "projectID": 236867,
   "files": [
@@ -62,7 +62,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 2271075,
+      "fileID": 2238375,
       "required": true
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "projectID": 235440,
-      "fileID": 2254449,
+      "fileID": 2256264,
       "required": true
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "projectID": 51195,
-      "fileID": 2263415,
+      "fileID": 2285856,
       "required": true
     },
     {
@@ -242,12 +242,12 @@
     },
     {
       "projectID": 228756,
-      "fileID": 2230908,
+      "fileID": 2230907,
       "required": true
     },
     {
       "projectID": 32274,
-      "fileID": 2269314,
+      "fileID": 2283867,
       "required": true
     },
     {
@@ -287,22 +287,17 @@
     },
     {
       "projectID": 225643,
-      "fileID": 2274323,
+      "fileID": 2283837,
       "required": true
     },
     {
       "projectID": 69162,
-      "fileID": 2280536,
+      "fileID": 2283118,
       "required": true
     },
     {
       "projectID": 230976,
       "fileID": 2272838,
-      "required": true
-    },
-    {
-      "projectID": 233105,
-      "fileID": 2272449,
       "required": true
     },
     {
@@ -332,7 +327,7 @@
     },
     {
       "projectID": 225251,
-      "fileID": 2272481,
+      "fileID": 2282522,
       "required": true
     },
     {
@@ -396,18 +391,13 @@
       "required": true
     },
     {
-      "projectID": 224641,
-      "fileID": 2280802,
-      "required": true
-    },
-    {
       "projectID": 69163,
-      "fileID": 2277516,
+      "fileID": 2282512,
       "required": true
     },
     {
       "projectID": 222880,
-      "fileID": 2277480,
+      "fileID": 2282520,
       "required": true
     },
     {
@@ -417,12 +407,12 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2282370,
+      "fileID": 2284459,
       "required": true
     },
     {
       "projectID": 237167,
-      "fileID": 2282369,
+      "fileID": 2284458,
       "required": true
     },
     {
@@ -433,11 +423,6 @@
     {
       "projectID": 241058,
       "fileID": 2276999,
-      "required": true
-    },
-    {
-      "projectID": 70496,
-      "fileID": 2269259,
       "required": true
     },
     {
@@ -463,6 +448,36 @@
     {
       "projectID": 229002,
       "fileID": 2279413,
+      "required": true
+    },
+    {
+      "projectID": 226082,
+      "fileID": 2244334,
+      "required": true
+    },
+    {
+      "projectID": 225095,
+      "fileID": 2241913,
+      "required": true
+    },
+    {
+      "projectID": 242677,
+      "fileID": 2286178,
+      "required": true
+    },
+    {
+      "projectID": 228922,
+      "fileID": 2274441,
+      "required": true
+    },
+    {
+      "projectID": 228923,
+      "fileID": 2264027,
+      "required": true
+    },
+    {
+      "projectID": 221857,
+      "fileID": 2270206,
       "required": true
     }
   ],

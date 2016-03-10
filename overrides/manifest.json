@@ -2,7 +2,7 @@
 	"manifestType" : "minecraftModpack",
 	"manifestVersion" : 1,
 	"name" : "Iacon Modpack",
-	"version" : "A.0.0",
+	"version" : "$$MP_VER$$",
 	"author" : "Almagnus1",
 	"description" : "",
 	"files" : [{
@@ -282,7 +282,7 @@
 	],
 	"overrides" : "overrides",
 	"minecraft" : {
-		"version" : "1.7.10",
+		"version" : "$$MC_VER$$",
 		"libraries" : "libraries",
 		"modLoaders" : [{
 				"id" : "forge-10.13.4.1558",
