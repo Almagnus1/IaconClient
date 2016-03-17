@@ -46,7 +46,6 @@ foreach($file in Get-ChildItem $directory -Recurse)
 # Need to pull $$MC_VER$$ and $$MP_VER$$ from the JSON files
 echo "Performing `$`$MC_VER`$`$ and `$`$MP_VER`$`$ replacement..."
 $swapTargets =
-    "$ZipPath\overrides\manifest.json",
     "$ZipPath\manifest.json",
     "$ZipPath\overrides\config\CustomMainMenu\mainmenu.json"
 foreach($target in $swapTargets) {Perform-Swap($target)}
